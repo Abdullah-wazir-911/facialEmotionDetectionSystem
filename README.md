@@ -29,11 +29,21 @@ This project detects human emotions using uploaded images and live webcam input.
 
 ## Installation
 
+Install the required dependencies using the `requirements.txt` file:
+
+```bash
+pip install -r requirements.txt
+```
+
+Alternatively, you can install the packages individually:
+
 ```bash
 pip install deepface opencv-python pillow tensorflow tf-keras retina-face
 ```
 
 ## Run Project
+
+To start the Facial Emotion Detection GUI application, run:
 
 ```bash
 python face.py
