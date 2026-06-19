@@ -19,6 +19,11 @@ Mr. Abdullah Soomro
 
 This project detects human emotions using uploaded images and live webcam input. The system uses DeepFace and OpenCV to classify emotions such as Happy, Sad, Angry, Fear, Surprise, Disgust, and Neutral.
 
+## Project Report
+
+For detailed information about the system architecture, methodology, and results, check out the [Facial Emotion Detection Report (PDF)](./Facial_Emotion_Detection_Report.pdf).
+
+
 ## Technologies Used
 
 - Python
